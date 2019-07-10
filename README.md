@@ -5,6 +5,9 @@ mobile-project-bibliolinux created by GitHub Classroom
 Benjamin Diaz
 
 Gabriel Spranger
+
 Rodrigo Céspedes
+
 Alonso Ferreyra
+
 Renato Bacigalupo
