@@ -1,7 +1,7 @@
 # mobile-project-bibliolinux
 mobile-project-bibliolinux created by GitHub Classroom
 
-#Integrantes
+# Integrantes
 Benjamin Diaz
 Gabriel Spranger
 Rodrigo Céspedes
